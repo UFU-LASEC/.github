@@ -1,12 +1,23 @@
-## Hi there 👋
+![LASEC Header](img/header.png)
 
-<!--
+## Laboratório de Automação, Sistemas Eletrônicos e Controle da Universidade Federal de Uberlândia - LASEC/UFU
 
-**Here are some ideas to get you started:**
+## 📌 Sobre o LASEC
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O LASEC (Laboratório de Automação, Sistemas Eletrônicos e Controle) é um laboratório vinculado à Universidade Federal de Uberlândia (UFU), dedicado ao desenvolvimento de projetos, pesquisas e aplicações nas áreas de automação, sistemas embarcados, robótica, controle e tecnologias inteligentes.
+
+O laboratório busca integrar ensino, pesquisa e extensão por meio do desenvolvimento de soluções tecnológicas, projetos acadêmicos e iniciativas voltadas à inovação, promovendo a formação prática e científica de estudantes e pesquisadores.
+
+## 🌐 Sobre este perfil
+
+Este perfil reúne os projetos, pesquisas e iniciativas desenvolvidos pelo LASEC, abrangendo aplicações tecnológicas, produção acadêmica e atividades voltadas à inovação e experimentação científica.
+
+Aqui são compartilhados códigos-fonte, documentações, artigos, protótipos e materiais relacionados às atividades do laboratório, incentivando colaboração, aprendizado e disseminação do conhecimento científico e tecnológico.
+
+## 📫 Contato
+
+<p align="left">
+  📧 Email: lasecca@gmail.com <br>
+  🎓 Universidade Federal de Uberlândia (UFU) <br>
+  📍 Uberlândia - MG, Brasil
+</p>
